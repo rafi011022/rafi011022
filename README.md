@@ -14,7 +14,7 @@ Name        : Nafiul Ahmad Rafi
 Role        : Founder & Lead @ Insights Bangladesh
 Mission     : Building secure, ethical & data-driven
               Digital Public Infrastructure (DPI)
-Scope       : Bangladesh — Scaling for 356+ Upazilas
+Scope       : Bangladesh — Scaling for 35+ Upazilas
 Focus Areas :
   - Civic-Tech & Financial Intelligence (AML)
   - Predictive Governance Systems
