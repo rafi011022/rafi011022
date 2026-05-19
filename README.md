@@ -1,30 +1,13 @@
-<div align="center">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&width=600&lines=Nafiul+Ahmad+Rafi;AI+Governance+Architect;Civic+Technologist+%7C+Policy+Researcher" alt="Typing SVG" />
 
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nafiul%20Ahmad%20Rafi&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Governance%20Architect%20%26%20Policy%20Analyst&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
-
-<!-- Profile Picture -->
-<img src="https://avatars.githubusercontent.com/u/rafi011022" width="130" height="130" style="border-radius: 50%; border: 4px solid #2c5364; margin-top: -20px;" alt="Nafiul Ahmad Rafi"/>
-
-<br/>
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ED4&center=true&vCenter=true&width=700&lines=AI+Governance+%26+Policy+Architect;Civic-Tech+%7C+AML+%7C+Predictive+Governance;Building+Digital+Public+Infrastructure+for+Bangladesh;Bridging+AI+Automation+%26+Global+Policy+Frameworks)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net)
-[![Nagorik BD](https://img.shields.io/badge/Nagorik_BD-FF6B35?style=for-the-badge&logo=gov.uk&logoColor=white)](https://nagorik.bd)
-[![Profile Views](https://komarev.com/ghpvc/?username=rafi011022&label=Profile%20Views&color=2c5364&style=for-the-badge)](https://github.com/rafi011022)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/nafiul-ahmad-rafi)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nafiul-Rafi)
+[![Nagorik BD](https://img.shields.io/badge/Nagorik_BD-FF6B35?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://nagorik.ai)
+![Profile Views](https://komarev.com/ghpvc/?username=rafi011022&color=blueviolet&style=for-the-badge)
 
 ---
 
 ## 🧠 Professional Identity
-
-<img align="right" alt="AI Governance GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 Name        : Nafiul Ahmad Rafi
@@ -36,26 +19,47 @@ Focus Areas :
   - Civic-Tech & Financial Intelligence (AML)
   - Predictive Governance Systems
   - AI Policy & Data Privacy Frameworks
+  - Global South AI Governance Research
+Quote       : "Bridging the Gap Between Advanced AI
+              Automation and Global Policy Frameworks"
 ```
 
-> *"Bridging the Gap Between Advanced AI Automation and Global Policy Frameworks"*
+---
 
-<br clear="right"/>
+## 🌍 Atlas Aii — Global AI Policy Hub
+
+> **Independent AI governance research for the Global South**
+
+[![Published](https://img.shields.io/badge/Published-38_Nations-brightgreen?style=for-the-badge)]()
+[![Total Coverage](https://img.shields.io/badge/Total_Coverage-97_Countries-blue?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
+
+**38 nations** across Africa, South Asia, Southeast Asia, MENA, and Latin America now have independent, research-based national AI policy frameworks — freely available under Creative Commons.
+
+| Region | Published | Pipeline |
+|--------|-----------|----------|
+| 🌍 Africa | 15 | 18 |
+| 🌏 South Asia | 5 | 3 |
+| 🌏 SE Asia & Pacific | 2 | 9 |
+| 🌍 MENA | 4 | 12 |
+| 🌎 Latin America | 5 | 14 |
+| **Total** | **38** | **59** |
+
+Each policy is aligned with **EU AI Act · UNESCO · OECD · ITU · G20** principles and locally contextualized for each nation's realities.
+
+🔗 **[View Full Repository →](https://github.com/rafi011022/Atlas-Aii-Global-Ai-Policy-Hub)**
 
 ---
 
 ## 🚀 Featured Innovations — Global Policy Impact
 
-<div align="center">
-
 | 🔗 Project | 🎯 Core Focus | 🛠 Technology Stack | 🌍 Impact |
-|:---:|:---:|:---:|:---:|
-| [**PolicyLens AI**](https://github.com/rafi011022) | MIT-Grade Policy Audit & SDG Alignment | Claude AI · World Bank API · React | 🌐 Global |
-| [**Ghost Cluster**](https://github.com/rafi011022) | Graph-based AML Financial Intelligence | Python · NetworkX · FastAPI | 🏦 FinTech |
-| [**PAG System**](https://github.com/rafi011022) | Predictive Disaster Governance | Kafka · Isolation Forest · Mistral AI | 🚨 Gov-Tech |
-| [**NGO Secure**](https://github.com/rafi011022) | Offline-First Encrypted Field Entry | AES-256 · Fernet · VeraCrypt | 🔐 Security |
-
-</div>
+|-----------|--------------|-------------------|----------|
+| [**Atlas Aii Hub**](https://github.com/rafi011022/Atlas-Aii-Global-Ai-Policy-Hub) | Global South AI Policy Research | Claude AI · Research · Markdown | 🌐 97 Nations |
+| [**PolicyLens AI**](https://github.com/rafi011022/Global-Policy-Impact-Analysis) | MIT-Grade Policy Audit & SDG Alignment | Claude AI · World Bank API · React | 🌐 Global |
+| **Ghost Cluster** | Graph-based AML Financial Intelligence | Python · NetworkX · FastAPI | 🏦 FinTech |
+| **PAG System** | Predictive Disaster Governance | Kafka · Isolation Forest · Mistral AI | 🚨 Gov-Tech |
+| **NGO Secure** | Offline-First Encrypted Field Entry | AES-256 · Fernet · VeraCrypt | 🔐 Security |
 
 ---
 
@@ -63,31 +67,27 @@ Focus Areas :
 
 ### 💻 Technical Expertise
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=flat-square&logo=python&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A843?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
-### 🏛️ Policy & Compliance
+### 🏛️ Policy & Compliance Frameworks
 
 <details>
-<summary><b>📋 Click to expand Policy Frameworks & Standards</b></summary>
+<summary>📋 Click to expand Policy Frameworks & Standards</summary>
 
-<br/>
-
-| Category | Details |
-|---|---|
-| 📊 **Standards** | J-PAL Evidence · OECD RIA · World Bank WGI · UN SDG 2030 |
-| ✅ **Compliance** | GDPR Article 9 · BFIU Regulations · ICRC Data Protection Framework |
-| 🔍 **Frameworks** | Hofstede 6D Cultural Dimensions · Transparency International CPI |
+- 🇪🇺 **EU AI Act** — Risk-based AI regulation framework
+- 🌐 **UNESCO Recommendation on AI** — Ethics & human rights
+- 📊 **OECD AI Principles** — Trustworthy AI standards
+- 📡 **ITU AI for Good** — Sustainable development alignment
+- 🌍 **G20 AI Principles** — International governance norms
+- 🏛️ **World Bank DPI Framework** — Digital public infrastructure
+- 🇧🇩 **Bangladesh Digital Security Act** — Local compliance
 
 </details>
 
@@ -95,42 +95,28 @@ Focus Areas :
 
 ## 📊 GitHub Intelligence
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafi011022&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2c9ed4&icon_color=2c9ed4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi011022&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ed4"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rafi011022&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c9ed4&ring=2c9ed4&fire=ff6b35&currStreakLabel=2c9ed4)](https://git.io/streak-stats)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafi011022&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafi011022&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🤝 Connect with Me
 
-<div align="center">
-
 | Platform | Link |
-|:---:|:---:|
-| 💼 **LinkedIn** | [Connect Professionally](https://linkedin.com) |
-| 🔬 **ResearchGate** | [View Research Papers](https://researchgate.net) |
-| 🇧🇩 **Nagorik BD** | [Civic Platform](https://nagorik.bd) |
-| 📧 **Email** | rafi@insightsbangladesh.org |
-
-</div>
+|----------|------|
+| 💼 LinkedIn | [Connect Professionally](https://bd.linkedin.com/in/nafiul-ahmad-rafi) |
+| 🔬 ResearchGate | [View Research Papers](https://www.researchgate.net/profile/Nafiul-Rafi) |
+| 🎓 Google Scholar | [Academic Publications](https://scholar.google.com/citations?user=gWP9cm8AAAAJ&hl=en) |
+| 🇧🇩 Nagorik BD | [Civic Platform](https://nagorik.ai) |
+| 🌍 Atlas Aii Hub | [Global AI Policy Repository](https://github.com/rafi011022/Atlas-Aii-Global-Ai-Policy-Hub) |
+| 📧 Email | [rafi@insightsbangladesh.org](mailto:rafi@insightsbangladesh.org) |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+Built with ❤️ by an AI Governance Architect — exploring the future of Governance
 
-*Built with ❤️ by an AI Governance Architect — exploring the future of Governance*
-
-⭐ **If you find my work useful, consider giving it a star!** ⭐
+**⭐ If you find my work useful, consider giving it a star! ⭐**
 
 </div>
